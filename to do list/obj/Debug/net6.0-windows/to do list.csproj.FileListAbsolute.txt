@@ -1,0 +1,18 @@
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\bin\Debug\net6.0-windows\to do list.exe
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\bin\Debug\net6.0-windows\to do list.deps.json
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\bin\Debug\net6.0-windows\to do list.runtimeconfig.json
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\bin\Debug\net6.0-windows\to do list.dll
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\bin\Debug\net6.0-windows\to do list.pdb
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.csproj.AssemblyReference.cache
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to_do_list.Form1.resources
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.csproj.GenerateResource.cache
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.AssemblyInfoInputs.cache
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.AssemblyInfo.cs
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.csproj.CoreCompileInputs.cache
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.dll
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\refint\to do list.dll
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.pdb
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to do list.genruntimeconfig.cache
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\ref\to do list.dll
+C:\Users\артур данжен\Documents\Visual Studio 2022\c#\to do list\to do list\obj\Debug\net6.0-windows\to_do_list.Form2.resources
